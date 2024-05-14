@@ -10,7 +10,7 @@ This repository contains everything needed to set up a Nibbler machine from scra
 This repository represents the culmination of four years of work on Project Nibbler done by four generations of Avenues students from Sao Paolo, Brazil and New York, USA.
 
 ## Ender 5 pro setup
-The Nibbler pick and place machine is an add-on to the Ender 5 pro. The following modifications must be made to a stock Ender 5: 
+The Nibbler pick and place machine is an add-on to the Ender 5 Pro. The following modifications must be made to a stock Ender 5: 
  
 The Creality Ender 5 Pro is the 3D Printer base that we are hacking and customizing to be able to print with nibbles and binder matrix.
 * Build Volume: 220mm x 220mm x 300mm (8.7" x 8.7" x 11.8")
@@ -25,7 +25,7 @@ The Creality Ender 5 Pro is the 3D Printer base that we are hacking and customiz
 ## Puck Dispenser
 
 ## Resin
-
+Currently, resin is injected into the resin container manually every 10 minutes. The puck is dipped into the resin and cured onto the build plate. An additional customization option is creating an automatic resin dispenser with a motor actuator connected to a long tube. 
 ## Slicer (Code)
 
 
