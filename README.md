@@ -26,6 +26,9 @@ The Creality Ender 5 Pro is the 3D Printer base that we are hacking and customiz
 
 The puck dispenser is a contraption that holds up to a hundred pucks. It dispenses pucks one at a time, in a flat orientation, for the suction nozzle to pick up. The puck dispenser encorperates a windmill roller design, which stirs pucks inside, and forces it down a chute. This orients the puck correctly.
 
+### File structure
+parts/hopper.STEP --> CAD model of puck storage hopper 
+
 ## Resin
 Currently, resin is injected into the resin container manually every 10 minutes. The puck is dipped into the resin and cured onto the build plate. An additional customization option is creating an automatic resin dispenser with a motor actuator connected to a long tube. 
 ## Slicer (Code)
