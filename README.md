@@ -11,7 +11,7 @@ This repository represents the culmination of four years of work on Project Nibb
 
 ## Ender 5 pro setup
 The Nibbler pick and place machine is an add-on to the Ender 5 pro. The following modifications must be made to a stock Ender 5: 
-### 
+ 
 The Creality Ender 5 Pro is the 3D Printer base that we are hacking and customizing to be able to print with nibbles and binder matrix.
 
 Build Volume: 220mm x 220mm x 300mm (8.7" x 8.7" x 11.8")
