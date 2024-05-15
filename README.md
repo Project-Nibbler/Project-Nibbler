@@ -48,7 +48,10 @@ The CAD document is export-enabled, which means that you are welcome to download
 ### Photos and Diagrams
 
 <img width="737" alt="CAD Render" src="https://github.com/Project-Nibbler/Project-Nibbler/assets/53117645/455647e3-cb99-42e6-888d-92e2667ea9ca">
+CAD Render
 
+![IMG_2724](https://github.com/Project-Nibbler/Project-Nibbler/assets/53117645/7678bf05-edbb-4fbf-80b4-8a3d98ccbca4)
+Photo
 
 
 ## Resin
