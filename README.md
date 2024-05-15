@@ -45,6 +45,11 @@ The puck dispenser features a thin profile NEMA 17 stepper motor and a coupler.
 
 The CAD document is export-enabled, which means that you are welcome to download the file and make changes. The main file is "Assembly 2". 
 
+### Photos and Diagrams
+
+<img width="737" alt="CAD Render" src="https://github.com/Project-Nibbler/Project-Nibbler/assets/53117645/455647e3-cb99-42e6-888d-92e2667ea9ca">
+
+
 
 ## Resin
 Currently, resin is injected into the resin container manually every 10 minutes. The puck is dipped into the resin and cured onto the build plate. An additional customization option is creating an automatic resin dispenser with a motor actuator connected to a long tube. 
